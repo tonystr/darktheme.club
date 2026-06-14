@@ -833,6 +833,11 @@
   method: mediaquery
   last_checked: 2025-04-13
 
+- domain: tonystr.net
+  url: http://tonystr.net/
+  method: darkonly
+  last_checked: 2026-06-14
+
 - domain: topfour.net
   url: https://topfour.net/
   method: mediaquery
